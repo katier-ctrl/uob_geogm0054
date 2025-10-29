@@ -6,4 +6,4 @@ rossonwyedata.txt from UK Met Office
 
 https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/rossonwyedata.txt
 
-KT was here (practising using GitHub)
+KT woz here (practising using GitHub)
